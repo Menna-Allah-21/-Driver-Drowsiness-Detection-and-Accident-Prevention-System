@@ -4,15 +4,15 @@ The mechanism of system work:
 3.	Car avoids accident by self-parking .
 
 Components :
-Raspberry Pi 3 model b
-2B (CM663) USB camera
-AVR microcontroller Atmega32
-Bluetooth module HC-05
-Car robot chassis 2 Layer(4WD)
-L298N Motor drivers (2modules)
-HC-SR04 Ultrasonic Sensor
-Buzzer
-DC-DC Step Down XL4015 Buck Converter 5A
+1.Raspberry Pi 3 model b
+2.2B (CM663) USB camera
+3.AVR microcontroller Atmega32
+4.Bluetooth module HC-05
+5.Car robot chassis 2 Layer(4WD)
+6.L298N Motor drivers (2modules)
+7.HC-SR04 Ultrasonic Sensor
+8.Buzzer
+9.DC-DC Step Down XL4015 Buck Converter 5A
 
 Project video :
 https://drive.google.com/drive/u/0/folders/19xfoySpW5-Uy9qPA1hbvO5P26hTBL3aN
