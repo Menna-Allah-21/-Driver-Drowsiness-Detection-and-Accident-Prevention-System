@@ -1,1 +1,3 @@
-# -Driver-Drowsiness-Detection-and-Accident-Prevention-System
+-Raspberry Pi 3 model b using 2B (CM663) USB camera will detect seatbelt and drowsiness  
+-Bluetooth module HC-05 acts as a link between Raspberry and microcontroller ATmega32, it sends information in case of drowsiness  
+-Car avoids accidents by self-parking. 
